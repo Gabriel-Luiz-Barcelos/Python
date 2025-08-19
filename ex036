@@ -1,1 +1,0 @@
-casa = float(input('Qual o valor da casa : '))
